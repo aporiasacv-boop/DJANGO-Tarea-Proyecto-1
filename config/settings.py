@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'clients',
     'interactions',
     'store',
+    'ecommerce',
 ]
 
 MIDDLEWARE = [
